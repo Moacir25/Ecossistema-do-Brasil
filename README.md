@@ -1,4 +1,5 @@
 # Ecossistema-do-Brasil
+Ecossistemas do Brasil é um jogo educacional que tem por objetivos abordar assuntos do 7° ano de Ciências do ensino fundamental. Nessa aprendizagem o aluno irá conhecer todos os ecossistemas do Brasil, textualizando as características da temperatura, quantidade de água existente e etc. O Intuito desse jogo é também correlacionar as características de animais e plantas existentes em cada região.
 var tela = 1, largura =150, altura = 30, xmenu = 135, ymenu1 = 180,ymenu2 = 245, ymenu3=310, ymenuvoltar = 360, Moacir, fundo, creditos, descricao,jogo,jogo01, eco1, correto, errado, cerrado, mata, mangue, cocais, pampas, arau, amaz, final;
 // https://youtu.be/AGgchwjFxjw 
 
